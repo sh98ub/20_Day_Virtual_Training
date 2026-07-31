@@ -1,0 +1,14 @@
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\bin\Debug\net10.0\BMI_Calaculator.exe
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\bin\Debug\net10.0\BMI_Calaculator.deps.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\bin\Debug\net10.0\BMI_Calaculator.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\bin\Debug\net10.0\BMI_Calaculator.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\bin\Debug\net10.0\BMI_Calaculator.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\refint\BMI_Calaculator.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\BMI_Calaculator.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\BMI_Calaculator\obj\Debug\net10.0\ref\BMI_Calaculator.dll

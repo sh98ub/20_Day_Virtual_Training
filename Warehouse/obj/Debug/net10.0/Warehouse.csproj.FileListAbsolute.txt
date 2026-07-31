@@ -1,0 +1,14 @@
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\bin\Debug\net10.0\Warehouse.exe
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\bin\Debug\net10.0\Warehouse.deps.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\bin\Debug\net10.0\Warehouse.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\bin\Debug\net10.0\Warehouse.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\bin\Debug\net10.0\Warehouse.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\refint\Warehouse.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\Warehouse.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\Warehouse\obj\Debug\net10.0\ref\Warehouse.dll

@@ -1,0 +1,14 @@
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\bin\Debug\net10.0\RetailStore.exe
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\bin\Debug\net10.0\RetailStore.deps.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\bin\Debug\net10.0\RetailStore.runtimeconfig.json
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\bin\Debug\net10.0\RetailStore.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\bin\Debug\net10.0\RetailStore.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.AssemblyInfoInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.AssemblyInfo.cs
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\refint\RetailStore.dll
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.pdb
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\RetailStore.genruntimeconfig.cache
+C:\Users\Shubham\OneDrive\Desktop\CG_20\RetailStore\obj\Debug\net10.0\ref\RetailStore.dll
