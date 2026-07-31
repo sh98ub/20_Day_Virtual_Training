@@ -1,0 +1,14 @@
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\bin\Debug\net10.0\day2.exe
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\bin\Debug\net10.0\day2.deps.json
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\bin\Debug\net10.0\day2.runtimeconfig.json
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\bin\Debug\net10.0\day2.dll
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\bin\Debug\net10.0\day2.pdb
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.AssemblyInfoInputs.cache
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.AssemblyInfo.cs
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.dll
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\refint\day2.dll
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.pdb
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\day2.genruntimeconfig.cache
+C:\Users\anjal\OneDrive\Desktop\CAPG20DAYVT\day2\obj\Debug\net10.0\ref\day2.dll
